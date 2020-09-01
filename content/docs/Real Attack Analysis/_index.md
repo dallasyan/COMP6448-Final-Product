@@ -28,6 +28,4 @@ An analysis of the evolution of SOFACY's attacks using their playbook.
 
 ## [OilRig](OILRIG)
 
-OilRig is an Iranian threat group primarily targeting organisations in the Middle East. You can read more about them [here](https://malpedia.caad.fkie.fraunhofer.de/actor/oilrig).
-
-UNIT42 has a very interesting article on OilRig [here](https://unit42.paloaltonetworks.com/behind-the-scenes-with-oilrig/). It contains far more depth than any analysis we've done.
+An analysis on OilRig, an Iranian threat group primarily targeting organisations in the Middle East.

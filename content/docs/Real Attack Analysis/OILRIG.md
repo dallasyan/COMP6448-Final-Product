@@ -26,3 +26,7 @@ The tools used by the OilRig group, that were revealed by the leak, can be mappe
 From the leak versioning could also be observed and tools compared to ones in previous leaks. This analysis highlighted the evolution of OilRigs attack patterns and strategies. Another interesting analysis performed by the unit 42 group was that of the files uploaded to Virustotal. The virustotal site runs uploaded files against a broad variety of antivirus softwares and reports if a particular vendor detects the sample as malware. From the upload history and the leaks unit 42 was able to observe the attackers adapting their attack payloads to be undetectable by antivirus. 
 
 This demonstrates the nature of APTs, even less funded groups, to evolve and adapt their strategies in order to be more effective in their operations and to achieve their goals. Ultimately this analysis also highlights why even smaller non funded groups should not be underestimated by SOCs and blue teams and should be treated as a legitimate threat.
+
+More information on OilRig can be found [here](https://malpedia.caad.fkie.fraunhofer.de/actor/oilrig).
+
+UNIT42 has a more in depth analysis of OilRig [here](https://unit42.paloaltonetworks.com/behind-the-scenes-with-oilrig/).
