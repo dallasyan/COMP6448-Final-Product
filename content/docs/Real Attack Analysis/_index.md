@@ -26,7 +26,7 @@ An analysis of the Australian National University breach (provided to us), with 
 
 An analysis of the evolution of SOFACY's attacks using their playbook.
 
-## [OilRig](OilRig)
+## [OilRig](OILRIG)
 
 OilRig is an Iranian threat group primarily targeting organisations in the Middle East. You can read more about them [here](https://malpedia.caad.fkie.fraunhofer.de/actor/oilrig).
 
