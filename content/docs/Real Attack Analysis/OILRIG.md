@@ -6,7 +6,7 @@ type: book
 weight: 3
 ---
 
-# Oil Rig
+# OilRig
 
 The OilRig consortium was an espionage motivated group whose activities were prevalent throughout the period of May 2014-2018. During this time they were relatively successful in achieving their goals. Unit 42, a counter cyber crime intelligence organisation, was tasked with monitoring OilRig’s operations. The OilRig group was classified by such counter threat organisations as a low in attack and operational sophistication but identified as being extremely persistent in the pursuit of their goals. Thus they can still be considered as a significant threat to organisations. 
 
